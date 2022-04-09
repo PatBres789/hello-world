@@ -5,10 +5,10 @@ title: About
 
 This page will say what my site is all about.
 
-#Why?
+# Why?
 Reasons:
 - It's a good idea
 - It will keep me focused
 
-##But:
+## But:
 this is just a test.
