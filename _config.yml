@@ -1,2 +1,9 @@
-theme: minima
-include: _pages
+# Site settings
+title: Great New Blog Title
+author:
+  name: Some Guy
+  email: pat.4fb@gmail.com
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
